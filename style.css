@@ -1,0 +1,25 @@
+.myProject{
+  background-color: tomato;
+  color: black;
+  font-size: 30px;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+#myHeader {
+  background-color: #65bd00;
+  font-size: 40px;
+  font-family: 'Helvetica';
+  color: black;
+  padding: 40px;
+  text-align: center;
+}
+canvas {
+  display: inline;
+}
+canvas2 {
+  display: inline;
+}
+canvas3 {
+  display: inline;
+}
